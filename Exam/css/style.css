@@ -1,0 +1,82 @@
+body{
+	font-family: Georgia;
+    font-size: 20px;
+    color: #444343;
+	margin: auto;
+    height: 100%;
+}
+#header-section{
+	background-color: grey;
+}
+.navbar-default {
+    background-color: #f5f5f5;
+    border-color:none;
+    
+}
+.carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+#service-section{
+	background: #ffffff;
+	height: auto;
+    margin-bottom: 40px;      
+}
+#service-section .header{
+	color: #444343;
+}
+#service-section h3{
+    margin-top: 100px;
+    margin-bottom: 10px;
+    overflow: hidden;
+}
+#service-section p{
+	margin: auto;
+	padding-right: 15px;
+}
+.fa {
+	padding: 10px;
+    display: inline-block;
+    font: normal normal normal 10px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.portfolio-area{
+    margin-top: 60px;
+}
+#about-section{
+    margin-top: 60px;
+}
+.form-control{
+    background-color: #EBEBEB;
+     height: 40px;
+    padding: 10px;
+    font-size: 20px;
+}
+.media-heading{
+    color: #444343;
+}
+.image-right-text {
+    background: #000000 none repeat scroll 0 0;
+    bottom: 0;
+    color: #fff;
+    opacity: 0.6;
+    padding: 10px 30px;
+    position: absolute;
+}
+.btn-default {
+    color: #333;
+    background-color: #EBEBEB;
+    border-color: #ccc;
+}
+textarea.form-control {
+    height: auto;
+    margin-bottom: 10px;
+}
+#footer-section {
+    border-top: 2px solid grey;
+
+}
